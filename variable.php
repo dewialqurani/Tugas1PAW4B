@@ -4,7 +4,7 @@
     <title>Soal Nomor 2</title>
 </head>
 <body>
-    <h3>Nama : <?php echo "Dewi Imani Al Qur' Ani";?><h3> //disini termasuk php didalam html. Fungsi Echo sendiri untuk menampilkan teks ke layar. 
+    <h3>Nama : <?php echo "Dewi Imani Al Qur' Ani";?><h3> <!--//disini termasuk php didalam html. Fungsi Echo sendiri untuk menampilkan teks ke layar. -->
     <h3>Nim : <?php echo "200411100014";?><h3>
     <?php
     $num1 = 8; //membuat variabel pertama
